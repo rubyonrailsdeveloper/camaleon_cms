@@ -14,7 +14,7 @@ PATH
       jquery-rails
       meta-tags (~> 2.0)
       mini_magick
-      sass-rails (<= 5.0.7)
+      sass-rails (<= 5.0.6)
       tinymce-rails (~> 4.3)
       will_paginate
       will_paginate-bootstrap
