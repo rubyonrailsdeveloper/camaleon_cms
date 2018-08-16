@@ -2,6 +2,7 @@ source 'https://rubygems.org'
 
 gemspec
 
+gem 'rails','5.0.6' 
 gem 'rspec_junit_formatter'
 gem 'capybara-webkit'
 # gem 'selenium-webdriver'
